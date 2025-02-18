@@ -30,7 +30,7 @@ Some Digital cameras use all kinds of tricks to improve low light sensitivity, <
 
 old sensors like [PhaseOne P45+](http://www.phaseonekorea.com/datasheet/Phase-One-645DF-P45-p-datasheet-english.pdf) iso 80 "the minimum setting" gives much better quality vs. ISO 800 </br>
 using High Speed Flash, the difference is Night & Day in Resolution: LinePairs/mm. </br>
-Basically its 50MegaPixels at ISO 80, but Resolution lowers as ISO increase. </br>
+Basically its 50MegaPixels at ISO 80, and Resolution lowers as ISO increase. </br>
 Newer Sensors have improved low light sensitivity drastically, for example: old Samsung S860 vs. Motorola G20 Phone camera </br>
 
 Cameras like Sony A7S use a 24MegaPixel sensor, Pixel Pairs in parallel, to double low light sensitivity. </br>
