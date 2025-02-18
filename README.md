@@ -2,7 +2,9 @@
 
 The 1st question is why? </br>
 ¿Why a Film Scanner in the Digital Era? </br>
-similar dilema of: LP´s Vinyl 12" vs. 320kbps .mp3 </br>
+similar dilema: </br>
+LP´s Vinyl 12" vs. 320kbps .mp3 / .flac / .wav </br>
+.tiff vs. .jpg </br>
 
 Digital camera is "the same" sensor direct to lens / source, </br>
 skipping film, develpment, chemicals, Faster, etc... </br>
