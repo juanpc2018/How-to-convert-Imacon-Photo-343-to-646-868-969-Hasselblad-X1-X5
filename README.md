@@ -56,23 +56,33 @@ older versions of GIMP could Not Edit in 16-Bit RGB mode, Imacon software could 
 
  Imacon Photo / 343 has some important differences vs. 646 848 949 Hasselblad X1 X5
 
- Photo vs. 343 are basically the same, Not a big difference, </br>
- the main upgrade is that 343 has modern Firewire port, and allows Newer Flexcolor 4.8 software, but 4.8 is almost the same as FlexColor 4.0, the Zoom tool is a bit different </br>
- Photo is SCSI Only, limited to FlexColor 4.0 </br>
+Photo vs. 343 are basically the same, Not a big difference, </br>
+the main upgrade is that 343 has modern Firewire port, and allows Newer Flexcolor 4.8 software, but 4.8 is almost the same as FlexColor 4.0, the Zoom tool is a bit different </br>
+Photo is SCSI Only, limited to FlexColor 4.0 </br>
 
- both have the same problem: the Virtual Drum moves the flexholder upward, against gravity, making the posibility of slide 0.1mm more easy, </br>
- an error of 0.1mm is very visible when scanning at 3200ppi, </br>
- both scanners are slow, takes 15 minutes to scan a 6x18 "3x 6x6", scan is ruined if negative holder slides 0.1mm, requires to re-scan again. </br>
- The bigger / newer brothers 646 848 949 Hasselblad X1 X5 are the opposite, virtual drum rotates downward with gravity, not against, much more stable, less prone to slide errors. </br>
+both have the same problems: </br>
+the Virtual Drum "the Air Barrel Drum" moves flexholder Upward, against gravity, making a posibility of sliding 0.1mm easy, </br>
+an error of 0.1mm is very visible when scanning at 3200ppi </br>
 
-343 / Photo Virtual Drum problem can be solved very easy by placing rubber feet on the top of the scanner, and place the scanner up side down, very easy mod, works flawless. </br>
+both scanners are slow, takes 15 minutes to scan a 6x18 "3x 6x6", </br>
+scan is ruined if negative holder slides -0.1mm, requires to re-scan, </br>
+cleaning the edges of the holder with alchohol to remove any finger sweat oil grease, works but Not always </br>
+some people open the scanner and replace springs with stronger springs, </br>
+in my opinion on the long run thats a mistake, </br>
+because virtual drum is rubber, with time rubber will become compact, drum radius / diameter -0.1mm smalleror more, increasing the problem in the end. </br>
+cleaning the Virtual drum rubber from grease, finger sweat / grease could work better. </br> 
+
+the bigger / newer brothers: </br>
+646 848 949 & Hasselblad X1 X5 are the opposite, virtual drum rotates downward with gravity, not against, much more stable, less prone to slide errors. </br>
+
+343 / Photo problem can be solved very easy by placing rubber feet on the top of the scanner, and place the scanner up side down, very easy mod, works flawless. </br>
 but thats Not the only problem... </br>
 
 Imacon scanners have an Instant Start Ballast technology, </br>
-instead KinoFlo 165x has a Rapid Start ballast technology </br>
+instead KinoFlo 165x has Rapid Start ballast technology </br>
 
-in the instant start ballast, generates a very high volgate to kick start the mercury spheres / vapour inside the CFL 6" Tube </br>
-after a few seconds, voltage is lowered to standard operating voltage around 120v-160v AC </br>
+the instant start ballast, generates a very high volgate to [kick start](https://www.youtube.com/watch?v=ybcxIpb-R_0&t=30s) the mercury spheres / vapour inside the 6" CFL Tube </br>
+after a few seconds, voltage retun to standard operating voltage around 120v-160v AC </br>
 
 in the Rapid Start Ballast tehcnology, there is No Kick start, IF Ballast is set to 100% output dimmer, will generate standard voltage only, </br>
 in this technology CFL tube needs several minutes to warm up, and stabilize, the usual 15-minutes / 30-minutes. </br>
