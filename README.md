@@ -63,39 +63,45 @@ the main upgrade is that 343 has modern Firewire port, and allows Newer Flexcolo
 Photo is SCSI Only, limited to FlexColor 4.0 </br>
 
 both have the same problems: </br>
-the Virtual Drum "the Air Barrel Drum" moves flexholder Upward, against gravity, making a posibility of sliding 0.1mm easy, </br>
-an error of 0.1mm is very visible when scanning at 3200ppi </br>
+the Virtual Drum "the Air Barrel Drum" moves flexholder Upward, against gravity, making a posibility of sliding -0.1mm easy, </br>
+an error of 0.1mm is very visible when scanning at 3200ppi / 126ppmm </br>
 
-both scanners are slow, takes 15 minutes to scan a 6x18 "3x 6x6", </br>
-scan is ruined if negative holder slides -0.1mm, requires to re-scan, </br>
-cleaning the edges of the holder with alchohol to remove any finger sweat oil grease, works but Not always </br>
+both scanners are slow, takes 15 minutes to scan a 6x18 "3x 6x6" </br>
+Not because SCSI in Async Mode is 5MB/s, 6x18 RAW File is 1600MB = 320seconds = 5.3 minutes. </br>
+
+its because the 386sx CPU and the 4MB PC100 72-pin memory. </br>
+The X5 is a rocket, super fast, like scanning at 150ppi. </br>
+
+sliding -0.1mm scan is ruined, requires to re-scan, </br>
+cleaning the edges of the flexholder with alchohol to remove any finger sweat oil grease, works ok but Not always </br>
 some people open the scanner and replace springs with stronger springs, </br>
 in my opinion on the long run thats a mistake, </br>
-because virtual drum is rubber, with time rubber will become compact, drum radius / diameter -0.1mm smalleror more, increasing the problem in the end. </br>
-cleaning the Virtual drum rubber from grease, finger sweat / grease could work better. </br> 
+because virtual drum is rubber, with time rubber will become compact, drum radius / diameter -0.1mm smaller, increasing the problem in the end. </br>
+cleaning the Virtual drum rubber from grease, finger sweat / grease works better. </br> 
 
 the bigger / newer brothers: </br>
-646 848 949 & Hasselblad X1 X5 are the opposite, virtual drum rotates downward with gravity, not against, much more stable, less prone to slide errors. </br>
+646 848 949 & Hasselblad X1 X5 are the opposite, </br>
+virtual drum rotates downward with gravity, not against, much more stable, less prone to slide errors. </br>
 
 343 / Photo problem can be solved very easy by placing rubber feet on the top of the scanner, and place the scanner up side down, very easy mod, works flawless. </br>
 but thats Not the only problem... </br>
 
 Imacon scanners have an Instant Start Ballast technology, </br>
-instead KinoFlo 165x has Rapid Start ballast technology </br>
+KinoFlo 165x has Rapid Start ballast technology. </br>
 
-the instant start ballast, generates a very high volgate to [kick start](https://www.youtube.com/watch?v=ybcxIpb-R_0&t=30s) the mercury spheres / vapour inside the 6" CFL Tube </br>
-after a few seconds, voltage retun to standard operating voltage around 120v-160v AC </br>
+instant Start ballast, generates a very high volgate to [kick start](https://www.youtube.com/watch?v=ybcxIpb-R_0&t=30s) the mercury spheres / vapour inside the 6" CFL Tube </br>
+after a few seconds, voltage retun to standard operating voltage around 100v-150v AC </br>
 
-in the Rapid Start Ballast tehcnology, there is No Kick start, IF Ballast is set to 100% output dimmer, will generate standard voltage only, </br>
-in this technology CFL tube needs several minutes to warm up, and stabilize, the usual 15-minutes / 30-minutes. </br>
-The advantage of Instant Start is obvious, </br>
-the advantege of Rapid start is Not as obvious: Extends bulb life. </br>
+Rapid Start Ballast, there is No Kick start, IF Ballast is set to 100% output, will generate standard voltage only, </br>
+in this technology CFL tube needs several minutes to warm up and stabilize, the usual 15-minutes / 30-minutes. </br>
+The advantage of Instant Start is obvious </br>
+the advantege of Rapid start is Not as obvious: Extended bulb life. </br>
 
-Other problem of Imacon Scanners is that were designed around a CFL bulb No longer manufactured by Osram, </br>
-Newer bulbs are "better" have more lumens output for the same watts, are brighter, </br>
+Other problem of Imacon Scanners is that were designed around a CFL bulb No longer manufactured by Osram </br>
+Newer bulbs are "better" have more lumens output for the same watts, brighter, </br>
 Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_rendering_index), but KinoFlo KF55 bulbs have similar or higher [Color Rendering Index](https://en.wikipedia.org/wiki/Color_rendering_index) "Higher Quality" </br>
  
-but Imacon CCD sensor requires a 2-stop down .6 lowewr light, exposure, brighter bulbs give wrong exposure "looknig too dark" if negative was exposed properly, and developed properly, </br>
+Imacon CCD sensor requires a 2-stop down .6 lower light / exposure, and brighter bulbs give wrong exposure "too dark" if negative was exposed properly, and developed properly, </br>
 internal Ballast is factory calibrated to older lower output bulb </br>
 has 2x 10-turn trimp pots, and output can be re-calibrated, but... </br>
 there is another problem: </br>
