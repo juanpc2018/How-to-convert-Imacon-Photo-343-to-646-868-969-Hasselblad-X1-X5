@@ -12,14 +12,15 @@ Silver particles capture light different. </br>
 but is it? </br>
 
 [C-41 Color](https://en.wikipedia.org/wiki/C-41_process) Negative Film or [E-6 Color](https://en.wikipedia.org/wiki/E-6_process) Positive Film, have RGB in micron layers each over the other, like 3 Lens [RGB Projectors](https://www.youtube.com/watch?v=CURsJDfdbfc&t=498s) and 3 CRT [Projector TV´s](https://www.youtube.com/watch?v=DdgzgeGw78E&t=259s), in parallel to display RGB. </br>
-Digital sensors RGB pixels are microns to the side, slightly out of phase, like [YUV 4:2:0 Chroma Subsampling](https://en.wikipedia.org/wiki/Chroma_subsampling) </br>
-RGB pixels are Not alighned in X-Y axis like Analog, Analog Film has a small phase shift / skew in Z-Axis, </br>
+Digital sensor RGB pixels are microns to the side, slightly out-of-phase, like [YUV 4:2:0 Chroma Subsampling](https://en.wikipedia.org/wiki/Chroma_subsampling) </br>
+RGB pixels are Not alighned in X-Y axis like Analog, Analog Film has a small phase shift / skew in the Z-Axis, </br>
+Some lenses have bigger Out of Phase shift, and the sollution is [Apochromatic lenses](https://en.wikipedia.org/wiki/Apochromat) to minimize Z-Axis aberrations. </br>
 RGB Pixels depend on the brand, have [different patterns](https://en.wikipedia.org/wiki/Bayer_filter) </br>
 
 Profesional CCD Scanners like Imacon / Hasselblad sensor have: 1 or 3 pixel x 8000 </br>
 Horizontal is Bigger 8cm / 80mm vs. Medium Format 57mm Digital Backs & 35mm Full Frame sensors. </br>
-Semi-Profesional Flatbed scanners like Epson v600v850 have a 1" sensor, and concave / [parabolic reflector](https://en.wikipedia.org/wiki/Parabolic_reflector) mirrors to shrink the image. </br>
-older Profesional Drum Scanners have PMT "Photo Multiplier Tubes" to convert the photons that enter the aperture to electrons, and amplify electrons to minimize signal to noise ratio, and match Analog to Digital converters </br>
+Semi-Profesional Flatbed scanners like Epson v600-v850 have a 1" sensor, and concave / [parabolic reflector](https://en.wikipedia.org/wiki/Parabolic_reflector) mirrors to shrink the image. </br>
+older Profesional Drum Scanners have PMT ["Photo-Multiplier Tubes"](https://en.wikipedia.org/wiki/Photomultiplier_tube) to convert the photons that enter the aperture into electrons, and amplify electrons to minimize signal to noise ratio, and match Analog to Digital converters </br>
 
 Digital quality depends on the size of the sensor, Light Lumens & Digital ISO </br>
 sensors like Sony x1000v require over 1000 Lumens to minimize digital noise / grain, </br>
