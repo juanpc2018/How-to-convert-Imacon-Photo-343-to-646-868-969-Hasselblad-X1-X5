@@ -175,7 +175,8 @@ The 3rd goal scan 4x5" film </br>
 but using different lenses could be optimized even more for each film format, not everybody wants to scan all formats, but instead 1x format as good as possible. </br>
 and unit / box can be modified to other formats if needed later. </br>
 5th goal would be recreating the 4-layer Mainboard PCB </br>
-6th goal upgrade the 386sx 16MHz CPU & old memory with MISTer FPGA io486 core running at 90MHz or similar. </br>
+6th goal upgrade the 386sx 16MHz CPU & old memory with MISTer FPGA io486 core running at 90MHz or similar,  </br>
+this would also require recreating the NEC SCSI in FPGA </br>
 7th goal recreate CCD sensor board in KiCad </br>
 8th goal upgrade CCD sensor pcb with Newer 16-Bit / 24-Bit ADC converters, highest precision / lowest jitter & drift clock possible. </br>
 using different parts would increase price according, maybe an economic version could also be developed. </br>
