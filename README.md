@@ -103,22 +103,38 @@ the advantege of Rapid start is Not as obvious: Extended bulb life. </br>
 
 Other problem of Imacon Scanners is that were designed around a CFL bulb No longer manufactured by Osram </br>
 Newer bulbs are "better" have more lumens output for the same watts, brighter, </br>
-Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_rendering_index), but [KinoFlo KF55 pag.8](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) bulbs have similar or higher [Color Rendering Index](https://en.wikipedia.org/wiki/Color_rendering_index) "Higher Quality" </br>
+Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_rendering_index), but [KinoFlo KF55 pag.8](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) bulbs have CRI 95 higher [Color Rendering Index](https://en.wikipedia.org/wiki/Color_rendering_index) "Higher Quality" </br>
  
-Imacon CCD sensor requires a 2-stop down .6 lower light / exposure, and brighter bulbs give wrong exposure "too dark" if negative was exposed properly, and developed properly, </br>
-internal Ballast is factory calibrated to older lower output bulb </br>
-has 2x 10-turn trimp pots, and output can be re-calibrated, but... </br>
+Imacon CCD sensor requires a 2-stop down .6 lower light / exposure, using a Newer 280lux boutput bulb, brighter bulb give wrong exposure "too dark" if negative was exposed properly & developed properly, </br>
+internal Ballast is factory calibrated to older lower output bulb 230lux </br>
+Imacon ballast has 2x 10-turn trimp pots, output can be calibrated, but... </br>
 there is another problem: </br>
-Ballast designed for Profesional photography has an oscillating frequency of 25KHz to 50KHz, </br>
-when Ballast output is lowered too much, bulb becomes unstable, generating horizontal lines on the scan, some lines are brighter some are darker. <br>
+Ballast designed for Profesional photography have an oscillating frequency of 25KHz to 50KHz </br>
+because scanner at 3200ppi takes too much time scanning each line, </br>
+when Ballast output is lowered bulb becomes unstable, generating horizontal lines on the scan, some lines are brighter some darker. <br>
 
-The proper sollution to that dilema: </br>
-is placing a 4x5 glass ND .6 filter between the bulb and the negative. </br>
+The proper sollution to that, is placing a 4x5 glass ND .6 filter between the bulb and the negative. </br>
 or between the negative and the 1:1 Lens </br>
-i did tests, placing the ND.6 filter between the bulb and the negative gives better results. </br>
+i did tests, placing the ND .6 filter between the bulb & the negative gives better results. </br>
 one of the reasons is that a bright light inside a black chanmber, creates reflections, </br>
 imacon chamber is Not painted with [Kiwami Black](https://www.youtube.com/watch?v=43OGgDaR2aE&t=29s) </br>
-using a cheaper / smaller ND.6 filter in-front of the 1:1 lens Require Kiwami Black. </br>
+using a cheaper / smaller ND .6 filter in-front of the 1:1 lens Require Kiwami Black or Similar High absorption Black. </br>
+
+The Final Problem is that Lens distance is Fixed, cannot be moved, </br>
+the other 646 848 949 & Hasselblad X1 X5 Lens & CCD sensor board can be moved controlled by internal calibration CNC </br>
+moving lens & CCD board allows to have different Resolutions for different film formats,
+
+Imacon 343 / Photo are 3200ppi all formats 35mm, and 6x6 / 6x18, does Not allow to scan 4x5 Nor positives. </br>
+basically 343 & Photo are designed for Medium Format Film, but also scan 35mm at 3200 ppi with optional holder. </br>
+The others specially the X5, allows to adjust lens and CCD to achieve 8000ppi, and adjust again to scan 4x5 Large format film at 1067 ppi. </br>
+also has double bulb / ballast to allow scanning reflective photos/paper like a flatbed scanner. </br>
+the 646 848 949 & Hasselblad X1 X5 Drum is Bigger, thats why flexholders are Not compatible. </br>
+
+To solve that probrem is much more complicated, </br>
+requires creating a custom wood/MDF box, or aluminum, much bigger, </br>
+requires creating 2x CNC mechanism for the lens and the CCD board. </br>
+
+
 
 
 
