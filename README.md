@@ -151,22 +151,25 @@ The 949 also has a Light difuser lens infront of the bulb to scatter light, and 
 instead of using a white softbox, like Profesional Enlargers, that method is controversial. </br>
 making a small wood box painted inside with [Spectralon or White 2.0](https://www.youtube.com/watch?v=14EZliTWDAA) would be insteresting to test. </br>
 
-To solve All those probrems is more complicated, </br>
+The X1 & X5 have a smaller CFL bulb, like old Flatbed scanners & CFL Dell monitors, another controversial decision. </br>
+instead old Real Drum scanners use a Tungsten 3200°K light source with 99 CRI. </br>
+light source is the life of the scanner, image quality change drastically with a different bulb. </br>
+
+To solve All those probrems is more advanced / complicated, </br>
 requires creating a large custom wood/MDF box or aluminum, much bigger, </br>
-requires creating 2x CNC mechanism for the lens and the CCD board. </br>
-create a New Hollow Drum compatible with Bigger Flexholders. </br>
+requires creating 2x CNC sliding mechanism for the lens & the CCD board. </br>
+and create a New Hollow Drum compatible with Bigger Flexholders, and abandon 343 / Photo flexholders completely. </br>
 
 Thats the goal of this project, most mods have been done, so far works better than factory </br>
-but i want to do all the other. </br>
+but i want to do more, go beyond. </br>
 
 been thinking about using 2x Old abandoned Flatbed scanners like Epsoon Precision 610 or Acer/BenQ 3300U </br>
-those scaners are big, and have a robust CNC mechanism that could work inside the New Box. </br>
-there is also many Scanner units from Newer MultiFunctional Printers like Epson L series, Kodak, Canon, etc... </br>
-IF vintage flatbed scanners are Not available. </br>
+those scaners are big, and have a robust CNC mechanism that could work inside the New Box, would require 3D printed adapters / holders or better bent metallic plates. </br>
+IF vintage flatbed scanners are Not available, there is also many Scanners from Newer MultiFunctional Printers like Epson L, Kodak, Canon, etc... </br>
 
-If using 2x flat bed scanners does Not work as intended, there are China manufacturers that sell bigger, stronger, lomger, more precise Z-Axis CNC sliders. </br>
+If using 2x flat bed scanners does Not work as desired, there are China manufacturers that sell bigger, stronger, longer, more precise Z-Axis CNC sliders. </br>
 1mm pitch is the maximum ive seen = 1x 360° turn in the stepper motor moves slider 1mm forward, </br>
-there are direct Stepper motor to ballscrew with a metallic coupler, and Belt driven, i think for this device would require low vibration belt drive. </br>
+there are direct Stepper motor to ballscrew with a metallic coupler, and Belt driven, for this a low vibration belt drive would be better. </br>
 
 The 1st goal is to scan 8000ppi on a Modified 343 / Photo at 35mm, </br>
 The 2nd goal could be to scan reflective papers </br>
