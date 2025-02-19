@@ -113,9 +113,9 @@ Ballast designed for Profesional photography has an oscillating frequency of 25K
 when Ballast output is lowered too much, bulb becomes unstable, generating horizontal lines on the scan, some lines are brighter some are darker. <br>
 
 The proper sollution to that dilema: </br>
-is placing a 4x5 flass ND .6 filter between the bulb and the negative. </br>
+is placing a 4x5 glass ND .6 filter between the bulb and the negative. </br>
 or between the negative and the 1:1 Lens </br>
-i did tests, placing the ND.6 filter between the bulb and the negative gives better results. in my opinion. </br>
+i did tests, placing the ND.6 filter between the bulb and the negative gives better results. </br>
 one of the reasons is that a bright light inside a black chanmber, creates reflections, </br>
 imacon chamber is Not painted with [Kiwami Black](https://www.youtube.com/watch?v=43OGgDaR2aE&t=29s) </br>
 using a cheaper / smaller ND.6 filter in-front of the 1:1 lens Require Kiwami Black. </br>
