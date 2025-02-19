@@ -109,25 +109,25 @@ Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_
 Imacon CCD sensor requires a 2-stop down .6 lower light / exposure using a Newer 280lux output bulb, </br>
 brighter bulb without attenuation would give wrong exposure "too dark" if negative was exposed & developed properly </br>
 internal Ballast is factory calibrated to attenuate older lower output bulb 230lux </br>
-Imacon ballast has 2x 10-turn trimp pots, output can be calibrated, but... </br>
+Imacon ballast has 2x 10-turn trim pots, output can be calibrated, but... </br>
 there is another problem: </br>
 Ballast designed for Profesional film/photography have an oscillating frequency of 25KHz to 50KHz </br>
 because scanner at 3200ppi takes too much time scanning each line </br>
-when Ballast output is lowered /attenuated too much the bulb becomes unstable, generating horizontal lines on the scan, </br>
+when Ballast output is lowered / attenuated electronically too much, bulb becomes unstable, generating horizontal lines on the scan, </br>
 some lines are brighter some lines are darker. <br>
 
-The proper sollution to that, is placing a 4x5" glass ND .6 filter between the bulb and the negative. </br>
+The proper sollution is attenuaring optically, Not electronically, by placing a 4x5" ND .6 glass filter between the bulb & negative. </br>
 imagon has a square metallic bar inside that can be used with strong double side foam tape 3M to glue the glass to the bar, and works ok. </br>
 
-ND filter can also be placed between the negative and the 1:1 Lens, a smaller / less expensive ND .6 filter in front of the lens. </br>
-i did tests, placing the Large expensive ND .6 glass filter between the bulb & the negative gives better results. </br>
-one of the reasons is that a bright light inside a black chamber, creates reflections, </br>
+a smaller / less expensive ND .6 filter can also be placed between the negative & the 1:1 Lens, in front of the lens. </br>
+i did tests, placing the Large expensive ND .6 glass filter between bulb & negative gives better results. </br>
+one of the reasons is that a bright light inside a small black chamber, creates reflections, </br>
 imacon chamber is Not painted with [Kiwami Black](https://www.youtube.com/watch?v=43OGgDaR2aE&t=29s) </br>
 using a smaller ND .6 filter in-front of the 1:1 lens Require Kiwami Black or Similar High absorption Black inside the chamber. </br>
 
-another problem is that the CCD sensor board in the bigger models 848 949 & Hasselblad X1 X5 has a [TEC cooler](https://en.wikipedia.org/wiki/Thermoelectric_cooling) </br>
-in theory to lower the noise floor "removing nautral dither" without creating air humidity condensation </br>
-in my tests i think is better to use a lower voltage instead of the +/-15vdc, instead of using a higher voltage with Cooling. </br> 
+another problem is that the CCD sensor in the bigger models 848 949 & Hasselblad X1 X5 has a [TEC cooler](https://en.wikipedia.org/wiki/Thermoelectric_cooling) </br>
+to lower the noise floor "removing nautral dither" without creating air humidity condensation </br>
+in my tests is better to use a slightly lower voltage instead of the +/-15vdc + Cooling. </br> 
 but the original SMPS is fixed. </br>
 usign linear PSU´s is more risk because when Linear PSU fail, voltage increase, killing all components, unless it has a [TVS](https://en.wikipedia.org/wiki/Transient-voltage-suppression_diode) </br>
 and yes, Imacon main board has TVS. </br>
