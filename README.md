@@ -125,10 +125,13 @@ one of the reasons is that a bright light inside a small black chamber, creates 
 imacon chamber is Not painted with [Kiwami Black](https://www.youtube.com/watch?v=43OGgDaR2aE&t=29s) </br>
 using a smaller ND .6 filter in-front of the 1:1 lens Require Kiwami Black or Similar High absorption Black inside the chamber. </br>
 
-another problem is that the CCD sensor in the bigger models 848 949 & Hasselblad X1 X5 has a [TEC cooler](https://en.wikipedia.org/wiki/Thermoelectric_cooling) </br>
-to lower the noise floor "removing nautral dither" without creating air humidity condensation </br>
-in my tests is better to use a slightly lower voltage instead of the +/-15vdc + Cooling. </br> 
+another difference is the CCD sensor in the bigger models 848 949 Hasselblad X1 X5 has a [TEC cooler](https://en.wikipedia.org/wiki/Thermoelectric_cooling) </br>
+to lower the noise floor "removing [natural dither](https://en.wikipedia.org/wiki/Johnson–Nyquist_noise)" without creating air humidity condensation </br>
+in my tests, i think is better to use a slightly lower voltage instead of the +/-15vdc + Cooling at 10°C to avoid [Dew Point](https://en.wikipedia.org/wiki/Dew_point) </br>
 but the original SMPS is fixed. </br>
+using a stong cooling does lower noise, but requires a very low temperature -35° that creates ice / [condensation](https://en.wikipedia.org/wiki/Condensation) </br>
+and ice / condensation requires an isolated chamber like the [ASEQ TE-1](https://aseq-instruments.com/TE_1.html) optional upgrade for the [LR1](https://aseq-instruments.com/LR1.html) </br>
+
 usign linear PSU´s is more risk because when Linear PSU fail, voltage increase, killing all components, unless it has a [TVS](https://en.wikipedia.org/wiki/Transient-voltage-suppression_diode) </br>
 and yes, Imacon main board has TVS. </br>
 
