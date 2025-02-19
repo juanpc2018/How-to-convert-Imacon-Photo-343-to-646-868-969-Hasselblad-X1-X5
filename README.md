@@ -91,7 +91,7 @@ virtual drum rotates downward with gravity, not against, much more stable, less 
 but thats Not the only problem... </br>
 
 Imacon scanners have an Instant Start Ballast technology, </br>
-KinoFlo 165x has Rapid Start ballast technology. </br>
+[KinoFlo Mini-Flo 139x page.31](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) has Rapid Start ballast technology. </br>
 
 instant Start ballast, generates a very high voltage to [kick start](https://www.youtube.com/watch?v=ybcxIpb-R_0&t=30s) the mercury spheres / vapour inside the 6" CFL Tube </br>
 after a few seconds, voltage retun to standard operating voltage around 100v-150v AC </br>
@@ -103,7 +103,7 @@ the advantege of Rapid start is Not as obvious: Extended bulb life. </br>
 
 Other problem of Imacon Scanners is that were designed around a CFL bulb No longer manufactured by Osram </br>
 Newer bulbs are "better" have more lumens output for the same watts, brighter, </br>
-Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_rendering_index), but KinoFlo KF55 bulbs have similar or higher [Color Rendering Index](https://en.wikipedia.org/wiki/Color_rendering_index) "Higher Quality" </br>
+Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_rendering_index), but [KinoFlo KF55 pag.8](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) bulbs have similar or higher [Color Rendering Index](https://en.wikipedia.org/wiki/Color_rendering_index) "Higher Quality" </br>
  
 Imacon CCD sensor requires a 2-stop down .6 lower light / exposure, and brighter bulbs give wrong exposure "too dark" if negative was exposed properly, and developed properly, </br>
 internal Ballast is factory calibrated to older lower output bulb </br>
