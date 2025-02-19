@@ -95,15 +95,15 @@ but thats Not the only problem... </br>
 Imacon scanners have an Instant Start Ballast technology, </br>
 KinoFlo Mini-Flo 139x [pag.31](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) has Rapid Start ballast technology.[1](https://kinoflo.com/mini-flo/).[2](https://kinoflo.com/ballast-boards/) </br>
 
-instant Start ballast, generates a very high voltage to [kick start](https://www.youtube.com/watch?v=ybcxIpb-R_0&t=30s) the mercury spheres / vapour inside the 6" CFL Tube </br>
+instant Start ballast, generates a very high voltage to [kick start](https://www.youtube.com/watch?v=ybcxIpb-R_0&t=30s) the mercury spheres / vapour inside the 6" [CFL](https://en.wikipedia.org/wiki/Compact_fluorescent_lamp) Tube </br>
 after a few seconds, voltage retun to standard operating voltage around 100v-150v AC </br>
 
 Rapid Start Ballast, there is No Kick start, IF Ballast is set to 100% output, will generate standard voltage only, </br>
-in this technology CFL tube needs several minutes to warm-up and stabilize, the usual 15-minutes ~ 30-minutes. </br>
+in this technology [CFL](https://en.wikipedia.org/wiki/Compact_fluorescent_lamp) tube needs several minutes to warm-up and stabilize, the usual 15-minutes ~ 30-minutes. </br>
 Advantage of Instant Start is Obvious. </br>
 Advantege of Rapid start is Longer bulb life. </br>
 
-Other problem of Imacon Scanners is that were designed around a CFL bulb No longer manufactured by Osram </br>
+Other problem of Imacon Scanners is that were designed around a [CFL](https://en.wikipedia.org/wiki/Compact_fluorescent_lamp) bulb No longer manufactured by Osram </br>
 Newer bulbs are "better" have more lumens for the same watts, brighter </br>
 Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_rendering_index), but KinoFlo KF55 [pag.8](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) have CRI 95 [Color Rendering Index](https://en.wikipedia.org/wiki/Color_rendering_index) "Higher Quality" </br>
  
@@ -138,8 +138,8 @@ and ice / condensation requires an isolated chamber like the [ASEQ TE-1](https:/
 usign linear PSU´s is more risk because when Linear PSU fail, voltage increase, killing all components, unless it has a [TVS](https://en.wikipedia.org/wiki/Transient-voltage-suppression_diode) </br>
 and yes, Imacon main board has TVS. </br>
 
-CFL Bulbs are harder to buy, KinoFlo used to sell 6-packs. </br>
-but sooner or later CFL will be discontinued completely, because it has Mercury </br>
+[CFL](https://en.wikipedia.org/wiki/Compact_fluorescent_lamp) Bulbs are harder to buy, KinoFlo used to sell 6-packs. </br>
+but sooner or later [CFL](https://en.wikipedia.org/wiki/Compact_fluorescent_lamp) will be discontinued completely, because it has Mercury </br>
 replacing KF55 5500°K CRI95% with similar LED like Epson v Scanners is an option, but High CRI LEDs are expensive, </br>
 or replacing with Tungsten CRI99% 3200°K + Blue 80C filter + different ND Filter could be another option, No ballast. </br>
 
@@ -163,7 +163,7 @@ The 949 also has a Light difuser lens infront of the bulb to scatter light, and 
 instead of using a white softbox, like Profesional Enlargers, that method is controversial. </br>
 making a small wood box painted inside with [Spectralon or White 2.0](https://www.youtube.com/watch?v=14EZliTWDAA) would be insteresting to test. </br>
 
-The X1 & X5 have a smaller CFL bulb, like old Flatbed scanners & CFL Dell monitors, another controversial decision. </br>
+The X1 & X5 have a smaller [CFL](https://en.wikipedia.org/wiki/Compact_fluorescent_lamp) bulb, like old Flatbed scanners & [CFL](https://en.wikipedia.org/wiki/Compact_fluorescent_lamp) Dell monitors, another controversial decision. </br>
 instead old Real Drum scanners use a Tungsten 3200°K light source with 99 CRI. </br>
 light source is the life of the scanner, image quality change drastically with a different bulb. </br>
 
