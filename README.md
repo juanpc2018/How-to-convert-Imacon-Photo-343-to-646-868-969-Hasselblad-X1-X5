@@ -13,7 +13,7 @@ some people condense the answer to a simple: </br>
 Silver particles capture light different. </br>
 but is it? </br>
 
-[C-41 Color](https://en.wikipedia.org/wiki/C-41_process) Negative Film or [E-6 Color](https://en.wikipedia.org/wiki/E-6_process) Positive Film, have RGB in micron layers each over the other, like 3 Lens [RGB Projectors](https://www.youtube.com/watch?v=CURsJDfdbfc&t=498s) and 3 CRT [Projector TV´s](https://www.youtube.com/watch?v=DdgzgeGw78E&t=259s), in parallel to display RGB. </br>
+[C-41 Color](https://en.wikipedia.org/wiki/C-41_process) Negative Film or [E-6 Color](https://en.wikipedia.org/wiki/E-6_process) Positive Film, have RGB in micron layers each over the other, like 3 Lens [RGB Projectors](https://www.youtube.com/watch?v=CURsJDfdbfc&t=498s) and 3 CRT [Projector TV´s](https://www.youtube.com/watch?v=DdgzgeGw78E&t=259s), to display RGB. </br>
 Digital sensor RGB pixels are microns to the side, slightly out-of-phase, like [YUV 4:2:0 Chroma Subsampling](https://en.wikipedia.org/wiki/Chroma_subsampling) </br>
 RGB pixels are Not aligned in X-Y axis like Analog, Analog Film has a small phase shift / skew in the Z-Axis, </br>
 Some lenses have bigger Out of Phase shift, and the sollution is [Apochromatic lenses](https://en.wikipedia.org/wiki/Apochromat) to minimize Z-Axis aberrations. </br>
