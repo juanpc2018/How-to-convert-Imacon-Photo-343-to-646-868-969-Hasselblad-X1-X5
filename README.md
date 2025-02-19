@@ -97,60 +97,77 @@ instant Start ballast, generates a very high voltage to [kick start](https://www
 after a few seconds, voltage retun to standard operating voltage around 100v-150v AC </br>
 
 Rapid Start Ballast, there is No Kick start, IF Ballast is set to 100% output, will generate standard voltage only, </br>
-in this technology CFL tube needs several minutes to warm up and stabilize, the usual 15-minutes / 30-minutes. </br>
-The advantage of Instant Start is obvious </br>
-the advantege of Rapid start is Not as obvious: Extended bulb life. </br>
+in this technology CFL tube needs several minutes to warm-up and stabilize, the usual 15-minutes ~ 30-minutes. </br>
+Advantage of Instant Start is Obvious. </br>
+Advantege of Rapid start is Longer bulb life. </br>
 
 Other problem of Imacon Scanners is that were designed around a CFL bulb No longer manufactured by Osram </br>
-Newer bulbs are "better" have more lumens output for the same watts, brighter, </br>
-Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_rendering_index), but [KinoFlo KF55 pag.8](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) bulbs have CRI 95 higher [Color Rendering Index](https://en.wikipedia.org/wiki/Color_rendering_index) "Higher Quality" </br>
+Newer bulbs are "better" have more lumens for the same watts, brighter </br>
+Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_rendering_index), but [KinoFlo KF55 pag.8](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) have CRI 95 [Color Rendering Index](https://en.wikipedia.org/wiki/Color_rendering_index) "Higher Quality" </br>
  
-Imacon CCD sensor requires a 2-stop down .6 lower light / exposure, using a Newer 280lux boutput bulb, brighter bulb give wrong exposure "too dark" if negative was exposed properly & developed properly, </br>
-internal Ballast is factory calibrated to older lower output bulb 230lux </br>
+Imacon CCD sensor requires a 2-stop down .6 lower light / exposure using a Newer 280lux output bulb, </br>
+brighter bulb without attenuation would give wrong exposure "too dark" if negative was exposed & developed properly </br>
+internal Ballast is factory calibrated to attenuate older lower output bulb 230lux </br>
 Imacon ballast has 2x 10-turn trimp pots, output can be calibrated, but... </br>
 there is another problem: </br>
-Ballast designed for Profesional photography have an oscillating frequency of 25KHz to 50KHz </br>
-because scanner at 3200ppi takes too much time scanning each line, </br>
-when Ballast output is lowered bulb becomes unstable, generating horizontal lines on the scan, some lines are brighter some darker. <br>
+Ballast designed for Profesional film/photography have an oscillating frequency of 25KHz to 50KHz </br>
+because scanner at 3200ppi takes too much time scanning each line </br>
+when Ballast output is lowered /attenuated too much the bulb becomes unstable, generating horizontal lines on the scan, </br>
+some lines are brighter some lines are darker. <br>
 
-The proper sollution to that, is placing a 4x5 glass ND .6 filter between the bulb and the negative. </br>
-or between the negative and the 1:1 Lens </br>
-i did tests, placing the ND .6 filter between the bulb & the negative gives better results. </br>
-one of the reasons is that a bright light inside a black chanmber, creates reflections, </br>
+The proper sollution to that, is placing a 4x5" glass ND .6 filter between the bulb and the negative. </br>
+imagon has a square metallic bar inside that can be used with strong double side foam tape 3M to glue the glass to the bar, and works ok. </br>
+
+ND filter can also be placed between the negative and the 1:1 Lens, a smaller / less expensive ND .6 filter in front of the lens. </br>
+i did tests, placing the Large expensive ND .6 glass filter between the bulb & the negative gives better results. </br>
+one of the reasons is that a bright light inside a black chamber, creates reflections, </br>
 imacon chamber is Not painted with [Kiwami Black](https://www.youtube.com/watch?v=43OGgDaR2aE&t=29s) </br>
-using a cheaper / smaller ND .6 filter in-front of the 1:1 lens Require Kiwami Black or Similar High absorption Black. </br>
+using a smaller ND .6 filter in-front of the 1:1 lens Require Kiwami Black or Similar High absorption Black inside the chamber. </br>
 
-another problem is that the CCD sensor board has a TEC cooler in the bigger moderls 848 949 & Hasselblad X1 X5 </br>
-to in theory lower the noise floor "removing nautral dither" </br>
+another problem is that the CCD sensor board in the bigger models 848 949 & Hasselblad X1 X5 has a [TEC cooler](https://en.wikipedia.org/wiki/Thermoelectric_cooling) </br>
+in theory to lower the noise floor "removing nautral dither" without creating air humidity condensation </br>
+in my tests i think is better to use a lower voltage instead of the +/-15vdc, instead of using a higher voltage with Cooling. </br> 
+but the original SMPS is fixed. </br>
+usign linear PSU´s is more risk because when Linear PSU fail, voltage increase, killing all components, unless it has a [TVS](https://en.wikipedia.org/wiki/Transient-voltage-suppression_diode) </br>
+and yes, Imacon main board has TVS. </br>
 
 The Final Problem is the Lens distance & CCD sensor board are Fixed, cannot be moved, </br>
-CCD board has a small adjustment Nothing more. </br>
+CCD board has a small adjustment. </br>
 
-the 646 848 949 & Hasselblad X1 X5 Lens & CCD sensor can be moved controlled by internal calibration CNC </br>
+646 848 949 & Hasselblad X1 / X5 Lens & CCD sensor can be moved controlled by internal calibration CNC </br>
 typing dbug inside FlexColor software, makes visible a hidden calibration menu. </br>
-moving lens & CCD board allows to have different Resolutions for different film formats, </br>
+moving lens & CCD board allows in micro steps allows to focus, </br>
+but in large steps allows to have different Resolutions for different film formats. </br>
 
-343 / Photo are 3200ppi all formats 35mm & 6x6 - 6x18, does Not allow to scan 4x5" Nor positives. </br>
-basically 343 & Photo are designed for Medium Format Film Only, but also allow to scan 35mm at 3200 ppi with optional flexholder. </br>
+343 / Photo are 3200ppi all formats 35mm & 6x6 ~ 6x18, does Not allow to scan 4x5", Nor positives. </br>
+basically 343 & Photo are designed for Medium Format Film Only, but also scan 35mm at 3200 ppi if needed. </br>
+with quality far beyond flatbed scanners. </br>
 
-The others specially the X5, allows to adjust lens & CCD to achieve 8000ppi at 35mm, and to scan 4x5" at 1067 ppi. </br>
-also has double bulb / ballast to allow scanning reflective photos / paper like a flatbed scanner. </br>
+The other Virtual / Hollow Drum Scanners like the X5, allows to adjust lens & CCD to achieve 8000ppi at 35mm, and scan 4x5" at 1067 ppi. </br>
+has double bulb / ballast to allow scanning reflective photos / paper like a flatbed scanner. </br>
 646 848 949 & Hasselblad X1 X5 Drum is Bigger, Flexholders are Not compatible. </br>
 
-To solve those probrems is more complicated, </br>
-requires creating a custom wood/MDF box, or aluminum, much bigger, </br>
+The 949 also has a Light difuser convex lens infront of the bulb, to scatter light, and minimize grain. </br>
+instead of using a white softbox, like Profesional Enlargers </br>
+making a small wood box painted inside with [Spectralon or White 2.0](https://www.youtube.com/watch?v=14EZliTWDAA) would be insteresting to test. </br>
+
+To solve All those probrems is more complicated, </br>
+requires creating a large custom wood/MDF box or aluminum, much bigger, </br>
 requires creating 2x CNC mechanism for the lens and the CCD board. </br>
-optional create a New Drum compatible with Bigger Flexholders. </br>
+create a New Hollow Drum compatible with Bigger Flexholders. </br>
 
-Thats the goal of this project, most mods have been done, so far works better than factory, </br>
-but i want to do the ultimate mod. </br>
+Thats the goal of this project, most mods have been done, so far works better than factory </br>
+but i want to do all the other. </br>
 
-i´ve been thinking about using 2x Old Flatbed scanners like Epsoon Precision 610 or Acer/BenQ 3300U </br>
-those scaners are big, and have a decent robust CNC mechanism that could work inside the New Box. </br>
+been thinking about using 2x Old abandoned Flatbed scanners like Epsoon Precision 610 or Acer/BenQ 3300U </br>
+those scaners are big, and have a robust CNC mechanism that could work inside the New Box. </br>
 there is also many Scanner units from Newer MultiFunctional Printers like Epson L series, Kodak, Canon, etc... </br>
-If using 2x flat bed scanners does Not work as intended, there are China manufacturers that sell bigger more precise Z-Axis CNC sliders. </br>
-1mm pitch is the maximum ive seen, = 1x 360° turn in the stepper motor moves the slider 1mm. </br>
-there are direct Stepper motor to ballscrew, and Belt driven, i think for this precision device would require low vibration belt drive units. </br>
+IF vintage flatbed scanners are Not available. </br>
+
+If using 2x flat bed scanners does Not work as intended, there are China manufacturers that sell bigger, stronger, lomger, more precise Z-Axis CNC sliders. </br>
+1mm pitch is the maximum ive seen = 1x 360° turn in the stepper motor moves slider 1mm forward, </br>
+there are direct Stepper motor to ballscrew with a metallic coupler, and Belt driven, i think for this device would require low vibration belt drive. </br>
+
 The 1st goal is to scan 8000ppi on a Modified 343 / Photo at 35mm, second goal scan reflective papers, 3rd goal scan 4x5" film </br>
 the 4tg goal is optimize the scanner for each resolution, for example the X5 has a single lens for all film formats, </br>
 but using different lenses could be optimized even more for each film format, not everybody wants to scann all formats, but instead 1 film format as good as possible. </br>
