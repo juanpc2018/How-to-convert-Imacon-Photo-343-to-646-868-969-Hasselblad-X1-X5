@@ -120,26 +120,44 @@ one of the reasons is that a bright light inside a black chanmber, creates refle
 imacon chamber is Not painted with [Kiwami Black](https://www.youtube.com/watch?v=43OGgDaR2aE&t=29s) </br>
 using a cheaper / smaller ND .6 filter in-front of the 1:1 lens Require Kiwami Black or Similar High absorption Black. </br>
 
-The Final Problem is that Lens distance is Fixed, cannot be moved, </br>
-the other 646 848 949 & Hasselblad X1 X5 Lens & CCD sensor board can be moved controlled by internal calibration CNC </br>
-moving lens & CCD board allows to have different Resolutions for different film formats,
+another problem is that the CCD sensor board has a TEC cooler in the bigger moderls 848 949 & Hasselblad X1 X5 </br>
+to in theory lower the noise floor "removing nautral dither" </br>
 
-Imacon 343 / Photo are 3200ppi all formats 35mm, and 6x6 / 6x18, does Not allow to scan 4x5 Nor positives. </br>
-basically 343 & Photo are designed for Medium Format Film, but also scan 35mm at 3200 ppi with optional holder. </br>
-The others specially the X5, allows to adjust lens and CCD to achieve 8000ppi, and adjust again to scan 4x5 Large format film at 1067 ppi. </br>
-also has double bulb / ballast to allow scanning reflective photos/paper like a flatbed scanner. </br>
-the 646 848 949 & Hasselblad X1 X5 Drum is Bigger, thats why flexholders are Not compatible. </br>
+The Final Problem is the Lens distance & CCD sensor board are Fixed, cannot be moved, </br>
+CCD board has a small adjustment Nothing more. </br>
 
-To solve that probrem is much more complicated, </br>
+the 646 848 949 & Hasselblad X1 X5 Lens & CCD sensor can be moved controlled by internal calibration CNC </br>
+typing dbug inside FlexColor software, makes visible a hidden calibration menu. </br>
+moving lens & CCD board allows to have different Resolutions for different film formats, </br>
+
+343 / Photo are 3200ppi all formats 35mm & 6x6 - 6x18, does Not allow to scan 4x5" Nor positives. </br>
+basically 343 & Photo are designed for Medium Format Film Only, but also allow to scan 35mm at 3200 ppi with optional flexholder. </br>
+
+The others specially the X5, allows to adjust lens & CCD to achieve 8000ppi at 35mm, and to scan 4x5" at 1067 ppi. </br>
+also has double bulb / ballast to allow scanning reflective photos / paper like a flatbed scanner. </br>
+646 848 949 & Hasselblad X1 X5 Drum is Bigger, Flexholders are Not compatible. </br>
+
+To solve those probrems is more complicated, </br>
 requires creating a custom wood/MDF box, or aluminum, much bigger, </br>
 requires creating 2x CNC mechanism for the lens and the CCD board. </br>
+optional create a New Drum compatible with Bigger Flexholders. </br>
 
+Thats the goal of this project, most mods have been done, so far works better than factory, </br>
+but i want to do the ultimate mod. </br>
 
+i´ve been thinking about using 2x Old Flatbed scanners like Epsoon Precision 610 or Acer/BenQ 3300U </br>
+those scaners are big, and have a decent robust CNC mechanism that could work inside the New Box. </br>
+there is also many Scanner units from Newer MultiFunctional Printers like Epson L series, Kodak, Canon, etc... </br>
+If using 2x flat bed scanners does Not work as intended, there are China manufacturers that sell bigger more precise Z-Axis CNC sliders. </br>
+1mm pitch is the maximum ive seen, = 1x 360° turn in the stepper motor moves the slider 1mm. </br>
+there are direct Stepper motor to ballscrew, and Belt driven, i think for this precision device would require low vibration belt drive units. </br>
+The 1st goal is to scan 8000ppi on a Modified 343 / Photo at 35mm, second goal scan reflective papers, 3rd goal scan 4x5" film </br>
+the 4tg goal is optimize the scanner for each resolution, for example the X5 has a single lens for all film formats, </br>
+but using different lenses could be optimized even more for each film format, not everybody wants to scann all formats, but instead 1 film format as good as possible. </br>
+the 5th goal would be recreating the 4-layer Mainboard PCB, </br>
+the 6th goal upgrade the 386sx 16MHz CPU & old memory with MISTer FPGA io486 core running at 90MHz or similar. </br>
+the 7th goal recreate the CCD sensor board in KiCad, </br>
+the 8th goal is to upgrade the CCD sensor pcb with Newer 16-Bit / 24-Bit ADC converters. </br>
+The 9th goal would be to create other adapters different than drums, to allow scanning a complete roll of 35mm, 16mm, 8mm film. </br>
 
-
-
-
-
-
-
-
+all modifications before creating a New Box are complete. </br>
