@@ -147,8 +147,8 @@ The other Virtual / Hollow Drum Scanners like the X5, allows to adjust lens & CC
 has double bulb / ballast to allow scanning reflective photos / paper like a flatbed scanner. </br>
 646 848 949 & Hasselblad X1 X5 Drum is Bigger, Flexholders are Not compatible. </br>
 
-The 949 also has a Light difuser convex lens infront of the bulb, to scatter light, and minimize film grain, like a [half-cylinder plano-convex lens](https://www.firebirdoptics.com/blog/intro-to-the-plano-convex-lens) 6" long </br>
-instead of using a white softbox, like Profesional Enlargers </br>
+The 949 also has a Light difuser lens infront of the bulb to scatter light, and minimize film grain, a [half-cylinder plano-convex lens](https://www.firebirdoptics.com/blog/intro-to-the-plano-convex-lens) 6" long </br>
+instead of using a white softbox, like Profesional Enlargers, that method is controversial. </br>
 making a small wood box painted inside with [Spectralon or White 2.0](https://www.youtube.com/watch?v=14EZliTWDAA) would be insteresting to test. </br>
 
 To solve All those probrems is more complicated, </br>
