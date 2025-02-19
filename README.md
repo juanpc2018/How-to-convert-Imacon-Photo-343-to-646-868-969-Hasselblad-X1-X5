@@ -53,8 +53,8 @@ requires more time in post, in a software like GIMP or Imacon / Hasselblad FlexC
 developing at recommended settings, gives a "standard" look, like flipping burgers, less random, more controlled / generic result. </br>
 older versions of GIMP could Not Edit in 16-Bit RGB mode, Imacon software could since 1997, but latest versions of GIMP work ok at 16-Bit Color, the only problem is Dither, is On by default, at the beggining of the chain. </br>
 ¿why 16-Bit Color if modern Monitors only reproduce 10-Bit Color? </br>
-Imacon CCD board has 14-Bit ADC, even Raw file is 16-Bit RGB. </br>
-to take use of all the Bits, requires proper bulb light / exposure, too bright or too dim will be out of range. </br>
+Imacon CCD board in many models have 14-Bit [ADC](https://en.wikipedia.org/wiki/Analog-to-digital_converter) even Raw file is 16-Bit RGB. </br>
+to take use of all the Bits, requires proper light / exposure, too bright or too dim will be out of range. </br>
 
 1 year Expired film has lower Blue saturation / sensitivity. </br>
 
