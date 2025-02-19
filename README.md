@@ -48,7 +48,7 @@ Medium Format cameras like 500c / 503 require 1/125 speed or faster to avoid mir
 
 #### Analog and Digital are affected by different things: </br>
 C-41 was designed to be developed at 104°F / 40°C for 3:00 minutes exactly </br>
-if develop C-41 at room temp. 20°C to avoid toxic smell vapour, requires much more time, arround ~20 minutes, and colors will be completely "wrong",  </br>
+if develop C-41 at room temp. 20°C to avoid toxic smell vapour, requires much more time, arround 15~20 minutes, and colors will be completely "wrong",  </br>
 requires more time in post, in a software like GIMP or Imacon / Hasselblad FlexColor 4.0 to color correct the scan, but that gives more artistic / creative freedom </br>
 developing at recommended settings, gives a "standard" look, like flipping burgers, less random, more controlled / generic result. </br>
 older versions of GIMP could Not Edit in 16-Bit RGB mode, Imacon software could since 1997, but latest versions of GIMP work ok at 16-Bit Color, the only problem is Dither, is On by default, at the beggining of the chain. </br>
