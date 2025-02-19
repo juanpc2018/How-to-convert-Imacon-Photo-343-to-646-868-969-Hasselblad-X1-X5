@@ -117,13 +117,15 @@ when Ballast output is lowered / attenuated electronically too much, bulb become
 some lines are brighter some lines are darker. <br>
 
 The proper sollution is attenuating optically, Not electronically, by placing a 4x5" ND .6 glass filter between the bulb & negative. </br>
-imacon 343 / Photo has a square metallic bar inside, that can be used with a strong double side foam tape 3M to glue the glass to the bar, works ok. </br>
+imacon 343/Photo has a square metallic bar inside, that can be used with a double side foam tape 3M to glue the glass to the bar, works ok. </br>
 
 a smaller / less expensive ND .6 filter can also be placed between the negative & the 1:1 Lens, in front of the lens. </br>
 i did tests, placing the Large expensive ND .6 glass filter between bulb & negative gives better results. </br>
 one of the reasons is that a bright light inside a small black chamber creates [reflections](https://www.youtube.com/watch?v=43OGgDaR2aE&t=254s) </br>
 imacon chamber is Not painted with [Kiwami Black](https://www.youtube.com/watch?v=43OGgDaR2aE&t=29s) </br>
 using a smaller ND .6 filter in-front of the 1:1 lens Require Kiwami Black or Similar High absorption Black inside the chamber. </br>
+also using an ND filter infront of the lens, affects the image, ND filters are Not 100% ND, some brands have a small bias towards red, others towards blue, </br>
+visible at strong ND 10 </br>
 
 another difference is the CCD sensor in the bigger models 848 949 Hasselblad X1 X5 has a [TEC cooler](https://en.wikipedia.org/wiki/Thermoelectric_cooling) </br>
 to lower the noise floor "removing [natural dither](https://en.wikipedia.org/wiki/Johnson–Nyquist_noise)" without creating air humidity condensation </br>
