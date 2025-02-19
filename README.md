@@ -174,7 +174,7 @@ there are direct Stepper motor to ballscrew with a metallic coupler, and Belt dr
 
 The 1st goal is to scan 8000ppi on a Modified 343 / Photo at 35mm, </br>
 The 2nd goal could be to scan reflective papers </br>
-The 3rd goal scan 4x5" film </br>
+The 3rd goal scan 4x5" film or 16mm / 8mm </br>
 4th goal is to optimize the box for each resolution, for example: X5 has a single lens for all film formats </br>
 but using different lenses could be optimized even more for each film format, not everybody wants to scan all formats, but instead 1x format as good as possible. </br>
 and box can be modified later to other formats if needed. </br>
