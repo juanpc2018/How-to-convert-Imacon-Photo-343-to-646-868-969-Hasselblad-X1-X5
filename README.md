@@ -1,4 +1,4 @@
-# How to convert Imacon Photo / 343 to 646 848 949 Hasselblad X1 X5
+# How to convert Imacon Photo / 343 -to-> 646 848 949 Hasselblad X1 X5
 
 The 1st question is why? </br>
 ¿Why a Film Scanner in the Digital Era? </br>
