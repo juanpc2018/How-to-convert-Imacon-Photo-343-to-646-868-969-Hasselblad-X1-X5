@@ -92,7 +92,7 @@ but thats Not the only problem... </br>
 Imacon scanners have an Instant Start Ballast technology, </br>
 KinoFlo 165x has Rapid Start ballast technology. </br>
 
-instant Start ballast, generates a very high volgate to [kick start](https://www.youtube.com/watch?v=ybcxIpb-R_0&t=30s) the mercury spheres / vapour inside the 6" CFL Tube </br>
+instant Start ballast, generates a very high voltage to [kick start](https://www.youtube.com/watch?v=ybcxIpb-R_0&t=30s) the mercury spheres / vapour inside the 6" CFL Tube </br>
 after a few seconds, voltage retun to standard operating voltage around 100v-150v AC </br>
 
 Rapid Start Ballast, there is No Kick start, IF Ballast is set to 100% output, will generate standard voltage only, </br>
