@@ -71,7 +71,7 @@ an error of 0.1mm is very visible when scanning at 3200ppi / 126ppmm </br>
 both scanners are slow, takes 15 minutes to scan a 6x18 "3x 6x6" </br>
 Not because SCSI in Async Mode is 5MB/s, 6x18 RAW File is 1600MB = 320seconds = 5.3 minutes. </br>
 
-its because the 386sx CPU and the 4MB PC100 72-pin memory. </br>
+its because the 386sx CPU and the 4MB [72-pin memory](https://en.wikipedia.org/wiki/SIMM#72-pin_SIMMs) </br>
 The X5 is a rocket, super fast, like scanning at 150ppi. </br>
 as far as i know, 386sx does [Not run](https://www.youtube.com/watch?v=sfbqZPLYNpI&t=1100s) with more than 16MB. </br>
 
