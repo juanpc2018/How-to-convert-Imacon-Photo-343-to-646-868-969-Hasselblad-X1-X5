@@ -151,7 +151,7 @@ typing dbug or debg inside FlexColor software, makes visible a hidden calibratio
 moving lens & CCD board in micro steps allows to focus </br>
 but in large steps allows to have different Resolutions for different film formats. </br>
 
-343 / Photo are 3200ppi all formats 35mm & 6x6 ~ 6x18, does Not allow to scan 4x5", Nor positives. </br>
+343 / Photo are 3200ppi all formats 35mm & 6x6 ~ 6x18, does Not allow to scan 4x5", Nor reflective papers. </br>
 basically 343 & Photo are designed for Medium Format Film Only, but also scan 35mm at 3200 ppi if needed. </br>
 with quality far beyond flatbed scanners. </br>
 
