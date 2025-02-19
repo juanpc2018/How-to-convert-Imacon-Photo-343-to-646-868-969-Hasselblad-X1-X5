@@ -117,7 +117,7 @@ when Ballast output is lowered / attenuated electronically too much, bulb become
 some lines are brighter some lines are darker. <br>
 
 The proper sollution is attenuating optically, Not electronically, by placing a 4x5" ND .6 glass filter between the bulb & negative. </br>
-imagon has a square metallic bar inside that can be used with strong double side foam tape 3M to glue the glass to the bar, and works ok. </br>
+imacon 343 / Photo has a square metallic bar inside, that can be used with a strong double side foam tape 3M to glue the glass to the bar, works ok. </br>
 
 a smaller / less expensive ND .6 filter can also be placed between the negative & the 1:1 Lens, in front of the lens. </br>
 i did tests, placing the Large expensive ND .6 glass filter between bulb & negative gives better results. </br>
