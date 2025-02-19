@@ -43,7 +43,7 @@ Physical RGB Pixel pairs also increase pixel skew phase error. </br>
 
 Film Camera: </br>
 most require a mirror, mirror creates vibrations, affecting Resolution: [LinePairs/mm](https://en.wikipedia.org/wiki/1951_USAF_resolution_test_chart) </br>
-Medium Format cameras require 1/125 speed or faster to avoid mirror vibrations in 6x6 film or digital back, </br>
+Medium Format cameras like 500c / 503 require 1/125 speed or faster to avoid mirror vibrations in 6x6 film or digital back, </br>
 35mm cameras have a smaller mirror, less agressive vibrations, body of the camera can absorb / contain vibrations more easy, vibrations spread different. </br>
 
 #### Analog and Digital are affected by different things: </br>
