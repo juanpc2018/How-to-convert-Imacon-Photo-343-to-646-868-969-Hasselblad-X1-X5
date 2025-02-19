@@ -138,6 +138,11 @@ and ice / condensation requires an isolated chamber like the [ASEQ TE-1](https:/
 usign linear PSU´s is more risk because when Linear PSU fail, voltage increase, killing all components, unless it has a [TVS](https://en.wikipedia.org/wiki/Transient-voltage-suppression_diode) </br>
 and yes, Imacon main board has TVS. </br>
 
+CFL Bulbs are harder to buy, KinoFlo used to sell 6-packs. </br>
+but sooner or later CFL will be discontinued completely, because it has Mercury </br>
+replacing KF55 5500°K CRI95% with similar LED like Epson v Scanners is an option, but High CRI LEDs are expensive, </br>
+or replacing with Tungsten CRI99% 3200°K + Blue 80C filter + different ND Filter could be another option, No ballast. </br>
+
 The Final Problem is the Lens distance & CCD sensor board are Fixed in 343 & Photo, cannot be moved, </br>
 CCD board has a small adjustment. </br>
 
