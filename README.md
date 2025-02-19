@@ -177,7 +177,7 @@ but i want to do more, go beyond. </br>
 
 been thinking about using 2x Old abandoned Flatbed scanners like Epson Precision 610 or Acer/BenQ 3300U </br>
 those scaners are big, and have a robust CNC mechanism that could work inside the New Box, would require 3D printed adapters / holders or better bent metallic plates. </br>
-IF vintage flatbed scanners are Not available, there is also many Scanners from Newer MultiFunctional Printers like Epson L, Kodak ESP, Canon, etc... </br>
+IF vintage flatbed scanners are Not available, there is also many Scanners from Newer MultiFunctional All-in-One Printers like Epson L, Kodak ESP, Canon, etc... </br>
 
 If using 2x flat bed scanners does Not work as desired, there are China manufacturers that sell bigger, stronger, longer, more precise Z-Axis CNC sliders. </br>
 1mm pitch is the maximum ive seen = 1x 360° turn in the stepper motor moves slider 1mm forward, </br>
