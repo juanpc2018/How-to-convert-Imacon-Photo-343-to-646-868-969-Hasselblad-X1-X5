@@ -136,8 +136,8 @@ The Final Problem is the Lens distance & CCD sensor board are Fixed in 343 & Pho
 CCD board has a small adjustment. </br>
 
 646 848 949 & Hasselblad X1 / X5 Lens & CCD sensor can be moved controlled by internal calibration CNC </br>
-typing dbug inside FlexColor software, makes visible a hidden calibration menu. </br>
-moving lens & CCD board in micro steps allows to focus, </br>
+typing dbug or debg inside FlexColor software, makes visible a hidden calibration menu. </br>
+moving lens & CCD board in micro steps allows to focus </br>
 but in large steps allows to have different Resolutions for different film formats. </br>
 
 343 / Photo are 3200ppi all formats 35mm & 6x6 ~ 6x18, does Not allow to scan 4x5", Nor positives. </br>
