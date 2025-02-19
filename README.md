@@ -116,7 +116,7 @@ because scanner at 3200ppi takes too much time scanning each line </br>
 when Ballast output is lowered / attenuated electronically too much, bulb becomes unstable, generating horizontal lines on the scan, </br>
 some lines are brighter some lines are darker. <br>
 
-The proper sollution is attenuaring optically, Not electronically, by placing a 4x5" ND .6 glass filter between the bulb & negative. </br>
+The proper sollution is attenuating optically, Not electronically, by placing a 4x5" ND .6 glass filter between the bulb & negative. </br>
 imagon has a square metallic bar inside that can be used with strong double side foam tape 3M to glue the glass to the bar, and works ok. </br>
 
 a smaller / less expensive ND .6 filter can also be placed between the negative & the 1:1 Lens, in front of the lens. </br>
