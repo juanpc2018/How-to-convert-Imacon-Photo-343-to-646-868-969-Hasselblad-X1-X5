@@ -92,7 +92,7 @@ virtual drum rotates downward with gravity, not against, much more stable, less 
 but thats Not the only problem... </br>
 
 Imacon scanners have an Instant Start Ballast technology, </br>
-[KinoFlo Mini-Flo 139x page.31](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) has Rapid Start ballast technology.[1](https://kinoflo.com/mini-flo/).[2](https://kinoflo.com/ballast-boards/) </br>
+KinoFlo Mini-Flo 139x [pag.31](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) has Rapid Start ballast technology.[1](https://kinoflo.com/mini-flo/).[2](https://kinoflo.com/ballast-boards/) </br>
 
 instant Start ballast, generates a very high voltage to [kick start](https://www.youtube.com/watch?v=ybcxIpb-R_0&t=30s) the mercury spheres / vapour inside the 6" CFL Tube </br>
 after a few seconds, voltage retun to standard operating voltage around 100v-150v AC </br>
@@ -104,9 +104,9 @@ Advantege of Rapid start is Longer bulb life. </br>
 
 Other problem of Imacon Scanners is that were designed around a CFL bulb No longer manufactured by Osram </br>
 Newer bulbs are "better" have more lumens for the same watts, brighter </br>
-Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_rendering_index), but [KinoFlo KF55 pag.8](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) have CRI 95 [Color Rendering Index](https://en.wikipedia.org/wiki/Color_rendering_index) "Higher Quality" </br>
+Most Newer bulbs have a lower quality [CRI](https://en.wikipedia.org/wiki/Color_rendering_index), but KinoFlo KF55 [pag.8](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) have CRI 95 [Color Rendering Index](https://en.wikipedia.org/wiki/Color_rendering_index) "Higher Quality" </br>
  
-Imacon CCD sensor requires a 2-stop down .6 lower light / exposure using a Newer 280lux output bulb, </br>
+Imacon CCD sensor requires a [2-stop down .6](https://en.wikipedia.org/wiki/Stopping_down) lower light / exposure using Newer 280lux output bulb, </br>
 brighter bulb without attenuation would give wrong exposure "too dark" if negative was exposed & developed properly </br>
 internal Ballast is factory calibrated to attenuate older lower output bulb 230lux </br>
 Imacon ballast has 2x 10-turn trim pots, output can be calibrated, but... </br>
@@ -121,7 +121,7 @@ imacon 343 / Photo has a square metallic bar inside, that can be used with a str
 
 a smaller / less expensive ND .6 filter can also be placed between the negative & the 1:1 Lens, in front of the lens. </br>
 i did tests, placing the Large expensive ND .6 glass filter between bulb & negative gives better results. </br>
-one of the reasons is that a bright light inside a small black chamber, creates reflections, </br>
+one of the reasons is that a bright light inside a small black chamber creates [reflections](https://www.youtube.com/watch?v=43OGgDaR2aE&t=254s) </br>
 imacon chamber is Not painted with [Kiwami Black](https://www.youtube.com/watch?v=43OGgDaR2aE&t=29s) </br>
 using a smaller ND .6 filter in-front of the 1:1 lens Require Kiwami Black or Similar High absorption Black inside the chamber. </br>
 
