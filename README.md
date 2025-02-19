@@ -91,7 +91,7 @@ virtual drum rotates downward with gravity, not against, much more stable, less 
 but thats Not the only problem... </br>
 
 Imacon scanners have an Instant Start Ballast technology, </br>
-[KinoFlo Mini-Flo 139x page.31](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) has Rapid Start ballast technology. </br>
+[KinoFlo Mini-Flo 139x page.31](https://kinoflo-lighting.com/downloads/Kino-Flo-Lighting-Catalog.pdf) has Rapid Start ballast technology.[1](https://kinoflo.com/mini-flo/).[2](https://kinoflo.com/ballast-boards/) </br>
 
 instant Start ballast, generates a very high voltage to [kick start](https://www.youtube.com/watch?v=ybcxIpb-R_0&t=30s) the mercury spheres / vapour inside the 6" CFL Tube </br>
 after a few seconds, voltage retun to standard operating voltage around 100v-150v AC </br>
