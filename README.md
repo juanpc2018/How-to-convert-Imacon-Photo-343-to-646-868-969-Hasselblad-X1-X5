@@ -168,13 +168,17 @@ If using 2x flat bed scanners does Not work as intended, there are China manufac
 1mm pitch is the maximum ive seen = 1x 360° turn in the stepper motor moves slider 1mm forward, </br>
 there are direct Stepper motor to ballscrew with a metallic coupler, and Belt driven, i think for this device would require low vibration belt drive. </br>
 
-The 1st goal is to scan 8000ppi on a Modified 343 / Photo at 35mm, second goal scan reflective papers, 3rd goal scan 4x5" film </br>
-the 4tg goal is optimize the scanner for each resolution, for example the X5 has a single lens for all film formats, </br>
-but using different lenses could be optimized even more for each film format, not everybody wants to scann all formats, but instead 1 film format as good as possible. </br>
-the 5th goal would be recreating the 4-layer Mainboard PCB, </br>
-the 6th goal upgrade the 386sx 16MHz CPU & old memory with MISTer FPGA io486 core running at 90MHz or similar. </br>
-the 7th goal recreate the CCD sensor board in KiCad, </br>
-the 8th goal is to upgrade the CCD sensor pcb with Newer 16-Bit / 24-Bit ADC converters. </br>
-The 9th goal would be to create other adapters different than drums, to allow scanning a complete roll of 35mm, 16mm, 8mm film. </br>
+The 1st goal is to scan 8000ppi on a Modified 343 / Photo at 35mm, </br>
+The 2nd goal could be to scan reflective papers </br>
+The 3rd goal scan 4x5" film </br>
+4tg goal is to optimize the boxr for each resolution, for example: the X5 has a single lens for all film formats </br>
+but using different lenses could be optimized even more for each film format, not everybody wants to scan all formats, but instead 1x format as good as possible. </br>
+and unit / box can be modified to other formats if needed later. </br>
+5th goal would be recreating the 4-layer Mainboard PCB </br>
+6th goal upgrade the 386sx 16MHz CPU & old memory with MISTer FPGA io486 core running at 90MHz or similar. </br>
+7th goal recreate CCD sensor board in KiCad </br>
+8th goal upgrade CCD sensor pcb with Newer 16-Bit / 24-Bit ADC converters, highest precision / lowest jitter & drift clock possible. </br>
+using different parts would increase price according, maybe an economic version could also be developed. </br>
+9th goal would be to create other film adapters different than a single drum, to allow scanning a complete roll of 35mm, 16mm, 8mm film. </br>
 
-all modifications before creating a New Box are complete. </br>
+All modifications before creating a New Box are complete. </br>
