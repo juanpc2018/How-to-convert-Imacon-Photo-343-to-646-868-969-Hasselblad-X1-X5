@@ -73,6 +73,7 @@ Not because SCSI in Async Mode is 5MB/s, 6x18 RAW File is 1600MB = 320seconds = 
 
 its because the 386sx CPU and the 4MB PC100 72-pin memory. </br>
 The X5 is a rocket, super fast, like scanning at 150ppi. </br>
+as far as i know, 386sx does Not run with bigger than 8MB modules. </br>
 
 sliding -0.1mm scan is ruined, requires to re-scan, </br>
 cleaning the edges of the flexholder with alchohol to remove any finger sweat oil grease, works ok but Not always </br>
