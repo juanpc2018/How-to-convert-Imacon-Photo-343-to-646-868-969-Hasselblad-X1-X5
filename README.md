@@ -27,7 +27,7 @@ Semi-Profesional Flatbed scanners like Epson v600-v850 have a 1" sensor, and con
 older Profesional Drum Scanners have PMT ["Photo-Multiplier Tubes"](https://en.wikipedia.org/wiki/Photomultiplier_tube) to convert the photons that enter the aperture into electrons, and amplify electrons to minimize signal to noise ratio, and match Analog to Digital converters </br>
 
 Digital quality depends on the size of the sensor, Light Lumens & Digital ISO </br>
-sensors like [Sony x1000v](https://www.sony.com/electronics/support/action-cam-fdr-x-series/fdr-x1000v/specifications) 1/2.3" sensor require over >1000 Lumens in video mode lumens at 24fps to minimize digital noise, more at 3fps, 60fps, 120fps, 240fps. </br>
+sensors like [Sony x1000v](https://www.sony.com/electronics/support/action-cam-fdr-x-series/fdr-x1000v/specifications) 1/2.3" sensor require over >1000 Lumens in video mode at 24fps to minimize digital noise, more lumens at 30fps, 60fps, 120fps, 240fps. </br>
 Some Digital cameras use all kinds of tricks to improve low light sensitivity, </br>
 
 old sensors like [PhaseOne P45+](http://www.phaseonekorea.com/datasheet/Phase-One-645DF-P45-p-datasheet-english.pdf) iso 80 "the minimum setting" gives much better quality vs. [ISO 800](https://en.wikipedia.org/wiki/Film_speed) </br>
