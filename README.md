@@ -69,7 +69,7 @@ in theory; 35mm x 24mm film can have: </br>
 86,419 Blue waves x 59,259 Blue Waves </br> 
 65,420 Green waves x 44,859 Green Waves </br> 
 43,750 Red waves x 30,000 Red Waves </br> 
-1,312 Million lines / Nyquist = 656 Million lp/mm. </br>
+1312 Million lines / Nyquist = 656 Million lp/mm. "almost the magic number". </br>
 
 #### Analog and Digital are affected by different things: </br>
 C-41 was designed to be developed at 104°F / 40°C for 3:00 minutes exactly </br>
