@@ -60,7 +60,7 @@ but loses, lens, vibration, iso, nyquist reduce the theoretic maximum to half or
 
 smallest crystal size can be 555pm, but light wavelenght is much bigger, </br>
 405nm for Blue, 535nm for Green, 800nm for Red. </br>
-crystals are limited by wavelenght. </br>
+crystals are limited by wavelenght, crystal size & development chemicals. </br>
 wavelenght is limited by lens & film size. </br>
 lens is limited by leaf shutter / courtain timing precision, opacity level, camera vibration. </br>
 
