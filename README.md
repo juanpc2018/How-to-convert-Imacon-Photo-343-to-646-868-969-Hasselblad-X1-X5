@@ -63,6 +63,7 @@ smallest crystal size can be 555pm, but light wavelenght is much bigger, </br>
 crystals are limited by wavelenght, crystal size & development chemicals. </br>
 wavelenght is limited by lens & film size. </br>
 lens is limited by leaf shutter / courtain timing precision, opacity level, camera vibration. </br>
+film is limited by focal plane accuracy / flatness. </br>
 
 in theory; 35mm x 24mm film can have: </br>
 86,419 Blue waves x 59,259 Blue Waves </br> 
