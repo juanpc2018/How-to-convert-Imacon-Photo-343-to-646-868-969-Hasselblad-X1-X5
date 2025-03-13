@@ -53,8 +53,8 @@ Silver Crystals latice has 555 pico meters "smallest Crystal size" assuming perf
 35mm film 35mm x 24mm = 63 million x 43 million crystals. </br>
 2,724,324 [Billion](https://en.wikipedia.org/wiki/Billion_(disambiguation)) crystals "short scale". </br>
 at 8000ppi </br>
-35mm/25.4*8000= 11.000 </br>
-24mm/25.4*8000= 7559 </br>
+35mm/25.4 x 8000= 11.000 </br>
+24mm/25.4 x 8000= 7559 </br>
 11,000 x 7559 = 83 MegaPixels. </br>
 but loses, lens, vibration, iso, nyquist reduce the theoretic maximum to half or less. </br>
 
