@@ -31,7 +31,7 @@ Digital quality depends on the size of the sensor, Light Lumens & Digital ISO </
 sensors like [Sony x1000v](https://www.sony.com/electronics/support/action-cam-fdr-x-series/fdr-x1000v/specifications) 1/2.3" sensor require over >1000 Lumens in video mode at 24fps to minimize digital noise, more lumens at 30fps, 60fps, 120fps, 240fps. </br>
 Some Digital cameras use all kinds of tricks to improve low light sensitivity, </br>
 
-old sensors like [PhaseOne P45+](http://www.phaseonekorea.com/datasheet/Phase-One-645DF-P45-p-datasheet-english.pdf) iso 80 "the minimum setting" gives much better quality vs. [ISO 800](https://en.wikipedia.org/wiki/Film_speed) </br>
+Old sensors like [PhaseOne P45+](http://www.phaseonekorea.com/datasheet/Phase-One-645DF-P45-p-datasheet-english.pdf) iso 80 "the minimum setting" gives much better quality vs. [ISO 800](https://en.wikipedia.org/wiki/Film_speed) </br>
 using High Speed Flash, the difference is Night & Day in Resolution: [LinePairs/mm](https://en.wikipedia.org/wiki/1951_USAF_resolution_test_chart) </br>
 Basically its 40MegaPixels at ISO 80, and lowers > as ISO increase <, but file size is the same, similar to Epson scanners and [mega pixel phone cameras](https://www.youtube.com/watch?v=FoF_JeWnvu8&t=274s) file size increase but [LinePairs/mm](https://en.wikipedia.org/wiki/1951_USAF_resolution_test_chart) does Not. </br>
 Newer Sensors have improved low light sensitivity drastically, for example: old Samsung S860 vs. Newer Motorola G20 Phone camera </br>
@@ -45,6 +45,30 @@ Film Camera: </br>
 most require a mirror, mirror creates vibrations, affecting Resolution: [LinePairs/mm](https://en.wikipedia.org/wiki/1951_USAF_resolution_test_chart) </br>
 Medium Format cameras like 500c / 503 require 1/125 speed or faster to avoid mirror vibrations in 6x6 film or digital back, </br>
 35mm cameras have a smaller mirror, less agressive vibrations, body of the camera can absorb / contain vibrations more easy, vibrations spread different. </br>
+
+In theory: </br>
+Silver Crystals latice has 555 pico meters "smallest Crystal size" assuming perfect crystal separation in medium, </br>
+1 milimeter = 1 million nanometers. </br>
+555pm = 0.555 nm. </br>
+35mm film 35mm x 24mm = 63 million x 43 million crystals. </br>
+2,724,324 [Billion](https://en.wikipedia.org/wiki/Billion_(disambiguation)) crystals "short scale". </br>
+at 8000ppi </br>
+35mm/25.4*8000= 11.000 </br>
+24mm/25.4*8000= 7559 </br>
+11,000 x 7559 = 83 MegaPixels. </br>
+but loses, lens, vibration, iso, nyquist reduce the theoretic maximum to half or less. </br>
+
+smallest crystal size can be 555pm, but light wavelenght is much bigger, </br>
+405nm for Blue, 535nm for Green, 800nm for Red. </br>
+crystals are limited by wavelenght. </br>
+wavelenght is limited by lens & film size. </br>
+lens is limited by leaf shutter / courtain timing precision, opacity level, camera vibration. </br>
+
+in theory; 35mm x 24mm film can have: </br>
+86,419 Blue waves x 59,259 Blue Waves </br> 
+65,420 Green waves x 44,859 Green Waves </br> 
+43,750 Red waves x 30,000 Red Waves </br> 
+1,312 Million lines / Nyquist = 656 Million lp/mm. </br>
 
 #### Analog and Digital are affected by different things: </br>
 C-41 was designed to be developed at 104°F / 40°C for 3:00 minutes exactly </br>
