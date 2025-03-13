@@ -70,7 +70,7 @@ in theory; 35mm x 24mm film can have: </br>
 65,420 Green waves x 44,859 Green Waves </br> 
 43,750 Red waves x 30,000 Red Waves </br> 
 1312 Million lines / Nyquist = 656 million lp/mm. "almost the magic number". </br>
-[Eye](https://en.wikipedia.org/wiki/Eye) [Color Photo receptor cone cells](https://en.wikipedia.org/wiki/Cone_cell) are aprox. 6 million each. </br>
+[Eye](https://en.wikipedia.org/wiki/Eye) [Color Photo receptor cone cells](https://en.wikipedia.org/wiki/Cone_cell) are more than 6 million each. </br>
 
 #### Analog and Digital are affected by different things: </br>
 C-41 was designed to be developed at 104°F / 40°C for 3:00 minutes exactly </br>
